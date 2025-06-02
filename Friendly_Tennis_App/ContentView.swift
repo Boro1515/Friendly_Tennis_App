@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Hello, world!")
+            Text("Nejedná se o soubory aplikace Friendly Tennis. I když zdrojový kód není veřejně dostupný, můžete si zde prohlédnout náhledy designu a funkcionality aplikace prostřednictvím přiložených screenshotů a souboru README.md")
         }
         .padding()
     }
